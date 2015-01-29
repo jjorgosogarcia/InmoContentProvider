@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inmobiliaria </string>
+    <string name="fotos">Fotos</string>
+    <string name="action_settings">Settings</string>
+    <string name="inmobiliaria">Inmobiliaria </string>
+    <string name="title_activity_secundaria">Secundaria</string>
+    <string name="aniadir">Añadir</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="aniadirfotos">Añadir Fotos</string>
+    <string name="title_activity_agregar">Gestionar Inmuebles</string>
+    <string name="localidad">Localidad</string>
+    <string name="direccion">Direccion</string>
+    <string name="tipo">Tipo</string>
+    <string name="precio">Precio</string>
+    <string name="galeria">Galeria</string>
+    <string name="camara">Camara</string>
+    <string name="aadfoto">Añadir foto</string>
+    <string name="seleccionar">¿Quiere abrir la foto desde?</string>
+    <string name="insertado">Inmueble insertado</string>
+    <string name="editado">Edicion Completada</string>
+    <string name="usuario">Cambiar de Usuario</string>
+    <string name="addusuario">Introduce el usuario</string>
+
+
+</resources>

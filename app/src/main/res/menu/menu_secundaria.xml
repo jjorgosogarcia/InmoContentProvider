@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.izv.Sadarik.inmobiliaria.Secundaria">
+    <item android:id="@+id/action_aniadir"
+        android:title="@string/aniadirfotos"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
